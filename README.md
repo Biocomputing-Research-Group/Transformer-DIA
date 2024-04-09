@@ -1,4 +1,4 @@
-# Casanovo-DIA
+# DiaTrans
 
 ## Transformer-based de novo peptide sequencing for data-independent acquisition mass spectrometry 
 
