@@ -1,4 +1,4 @@
-# DiaTrans
+# Transformer-DIA
 
 ## Transformer-based de novo peptide sequencing for data-independent acquisition mass spectrometry 
 
