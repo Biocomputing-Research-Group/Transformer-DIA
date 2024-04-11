@@ -16,7 +16,7 @@ Casanovo GitHub like: https://github.com/Noble-Lab/casanovo
 ## Dataset
 We used the same data sets released by DeepNovo-DIA [1], download OC, Plasma, and UTI from google drive link. Each data set has two MS/MS spectra file with corresponding feature file, you can find more detailed here: https://github.com/nh2tran/DeepNovo-DIA/tree/master 
 
-## Casnovo-DIA usage
+## Transformer-DIA usage
 
 ### Step 0: Data Preparation 
 - Split each dataset into train set, validation set, and test set
