@@ -31,6 +31,6 @@
 
 
 ## References:
- 1. - Ebrahimi, Shiva, and Xuan Guo. "Transformer-based de novo peptide sequencing for data-independent acquisition mass spectrometry." 2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE). IEEE, 2023.
+  - Ebrahimi, Shiva, and Xuan Guo. "Transformer-based de novo peptide sequencing for data-independent acquisition mass spectrometry." 2023 IEEE 23rd International Conference on Bioinformatics and Bioengineering (BIBE). IEEE, 2023.
  
 
