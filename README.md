@@ -6,7 +6,8 @@
 ## Paper
 
 For more details about the model and its implementation, refer to our paper:
-[Transformer-DIA: Advanced De Novo Peptide Sequencing](https://pmc.ncbi.nlm.nih.gov/articles/PMC11044815/)
+[Transformer-DIA: Transformer-based de novo peptide sequencing for data-independent acquisition mass spectrometry
+](https://pmc.ncbi.nlm.nih.gov/articles/PMC11044815/)
 
 ---
 
