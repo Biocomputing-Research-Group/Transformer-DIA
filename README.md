@@ -60,7 +60,7 @@ We provide a script to streamline this process. The script processes spectrum an
 
 You can run the script by providing the paths to your spectrum and feature files as input. The script validates the inputs to ensure compatibility. Follow the instructions in the script prompts for seamless data preprocessing. 
 
-We used the feature and spectrum files released by the **DeepNovo-DIA model**, which are available here: [MassIVE MSV000082368](ftp://massive.ucsd.edu/v01/MSV000082368/).
+We used the feature and spectrum files released by the **DeepNovo-DIA model**, which are available here: [MassIVE MSV000082368](https://massive.ucsd.edu/ProteoSAFe/dataset.jsp?task=88f95e8494cc4feeb3610e59f07f1d41).
  
 You can run the script by providing the paths to your spectrum and feature files as input. The script validates the inputs to ensure compatibility. Follow the instructions in the script prompts for seamless data preprocessing.
 ### Download DIA Datasets
